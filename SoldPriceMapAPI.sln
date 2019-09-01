@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoldPriceMapAPI", "SoldPriceMapAPI\SoldPriceMapAPI.csproj", "{D645D12B-62BA-40A7-B98A-42C79AEC31FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoldPriceMap.UnitTests", "SoldPriceMap.UnitTests\SoldPriceMap.UnitTests.csproj", "{4DF98910-5CF9-4C65-BBE8-2433E8A287D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D645D12B-62BA-40A7-B98A-42C79AEC31FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D645D12B-62BA-40A7-B98A-42C79AEC31FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D645D12B-62BA-40A7-B98A-42C79AEC31FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D645D12B-62BA-40A7-B98A-42C79AEC31FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF98910-5CF9-4C65-BBE8-2433E8A287D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF98910-5CF9-4C65-BBE8-2433E8A287D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF98910-5CF9-4C65-BBE8-2433E8A287D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF98910-5CF9-4C65-BBE8-2433E8A287D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257BED28-5A04-4D3B-8039-8A93C2BE1F4C}
+	EndGlobalSection
+EndGlobal
