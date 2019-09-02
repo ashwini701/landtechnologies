@@ -11,7 +11,8 @@
   2)Click on Test-->Windows-->Test Explorer
   3)Click on Run All. it will run Unit Test.
   4)To see more about test coverage, open SoldPriceMapServiceShould.cs file.
-  5) Knowing, text file as infrastructre layer responsibility, i have mocked the input file and compared the service layers      responsibility.
+  5) Knowing, text file as infrastructre layer responsibility, i have mocked the input file and compared the service layers                   responsibility.
+  
 4)Running Application : 
   1) (Optional Step) If not, right click on SoldPriceMapAPI project and set as start up project.
   2) Hit F5 or run application using Play button on the top.
@@ -19,6 +20,7 @@
   4) Go to Frontend folder and simply open "SoldPriceMap.html" file.
   5) You should able to see result as below.
   ![alt text](https://github.com/ashwini701/landtechnologies/blob/master/Capture.PNG)
+  
 5) Technical Decisions :
   1) Used DDD(Doamin Driven API architecture) based on understanding as Data will have N number reosurces and plotting logic will be in        Domain.
   2) used Mocking Unit test framework to Mock External resources and check integirity of our application.
