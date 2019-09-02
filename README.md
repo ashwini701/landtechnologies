@@ -18,4 +18,6 @@
   3) Ensure that API gets hosted as http://localhost:55973/ URL. note that, we have used this url in our Frond end.
   4) Go to Frontend folder and simply open "SoldPriceMap.html" file.
   5) You should able to see result as below.
+  ![alt text](https://github.com/ashwini701/landtechnologies/blob/master/Capture.PNG)
+ 
   
