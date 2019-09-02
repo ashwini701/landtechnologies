@@ -19,5 +19,12 @@
   4) Go to Frontend folder and simply open "SoldPriceMap.html" file.
   5) You should able to see result as below.
   ![alt text](https://github.com/ashwini701/landtechnologies/blob/master/Capture.PNG)
- 
+5) Technical Decisions :
+  1) Used DDD(Doamin Driven API architecture) based on understanding as Data will have N number reosurces and plotting logic will be in        Domain.
+  2) used Mocking Unit test framework to Mock External resources and check integirity of our application.
+  3) There is still scope to cover more on test like, Smoke, integration and Adaptor test. 
+  4) There are plenty of JS plug in available like chart.js, plot.ly but instead of going with them choosed to use basic canvas and plot.
+  5) Kept simple UI where used Canvas to plot and make use of Canvas object to draw X and Y Axis and plot house as a arch with different      color.
+  6) Used XMLHttpRequest object to call API and covert received data to JSON and process in JavaScript Function to plot on Map.
+
   
