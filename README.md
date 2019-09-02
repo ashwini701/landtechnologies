@@ -21,7 +21,7 @@
   5) You should able to see result as below.
   ![alt text](https://github.com/ashwini701/landtechnologies/blob/master/Capture.PNG)
   
-5) Technical Decisions :
+5)Technical Decisions :
   1) Used DDD(Doamin Driven API architecture) based on understanding as Data will have N number reosurces and plotting logic will be in        Domain.
   2) used Mocking Unit test framework to Mock External resources and check integirity of our application.
   3) There is still scope to cover more on test like, Smoke, integration and Adaptor test. 
