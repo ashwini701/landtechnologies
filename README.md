@@ -27,6 +27,6 @@
   3) There is still scope to cover more on test like, Smoke, integration and Adaptor test. 
   4) There are plenty of JS plug in available like chart.js, plot.ly but instead of going with them choosed to use basic canvas and plot.
   5) Kept simple UI where used Canvas to plot and make use of Canvas object to draw X and Y Axis and plot house as a arch with different      color.
-  6) Used XMLHttpRequest object to call API and covert received data to JSON and process in JavaScript Function to plot on Map.
+  6) Used XMLHttpRequest object to call API and convert received data to JSON and process in JavaScript Function to plot on Map.
 
   
